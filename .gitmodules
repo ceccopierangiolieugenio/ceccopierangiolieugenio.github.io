@@ -1,3 +1,6 @@
 [submodule "testCityRL"]
 	path = testCityRL
 	url = https://github.com/ceccopierangiolieugenio/testCityRL.git
+[submodule "BoredLike"]
+	path = BoredLike
+	url = https://github.com/ceccopierangiolieugenio/BoredLike.git
