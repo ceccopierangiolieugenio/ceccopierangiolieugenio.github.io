@@ -1,6 +1,75 @@
-[submodule "testCityRL"]
-	path = testCityRL
-	url = https://github.com/ceccopierangiolieugenio/testCityRL.git
-[submodule "BoredLike"]
-	path = BoredLike
+[submodule "projects/3DGameEngine.js/v0.2"]
+	path = projects/3DGameEngine.js/v0.2
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.3"]
+	path = projects/3DGameEngine.js/v0.3
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.4"]
+	path = projects/3DGameEngine.js/v0.4
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.5"]
+	path = projects/3DGameEngine.js/v0.5
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.6"]
+	path = projects/3DGameEngine.js/v0.6
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.7"]
+	path = projects/3DGameEngine.js/v0.7
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.8"]
+	path = projects/3DGameEngine.js/v0.8
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.9"]
+	path = projects/3DGameEngine.js/v0.9
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.10"]
+	path = projects/3DGameEngine.js/v0.10
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.11"]
+	path = projects/3DGameEngine.js/v0.11
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.12"]
+	path = projects/3DGameEngine.js/v0.12
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.13"]
+	path = projects/3DGameEngine.js/v0.13
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.14"]
+	path = projects/3DGameEngine.js/v0.14
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.15"]
+	path = projects/3DGameEngine.js/v0.15
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.16"]
+	path = projects/3DGameEngine.js/v0.16
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/BoredLike"]
+	path = projects/BoredLike
 	url = https://github.com/ceccopierangiolieugenio/BoredLike.git
+[submodule "projects/testCityRL"]
+	path = projects/testCityRL
+	url = https://github.com/ceccopierangiolieugenio/testCityRL.git
+[submodule "projects/3DGameEngine.js/v0.17"]
+	path = projects/3DGameEngine.js/v0.17
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.18"]
+	path = projects/3DGameEngine.js/v0.18
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.20"]
+	path = projects/3DGameEngine.js/v0.20
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.21"]
+	path = projects/3DGameEngine.js/v0.21
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.22"]
+	path = projects/3DGameEngine.js/v0.22
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.23"]
+	path = projects/3DGameEngine.js/v0.23
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.25"]
+	path = projects/3DGameEngine.js/v0.25
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.26"]
+	path = projects/3DGameEngine.js/v0.26
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
