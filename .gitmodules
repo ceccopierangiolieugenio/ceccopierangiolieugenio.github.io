@@ -73,3 +73,6 @@
 [submodule "projects/3DGameEngine.js/v0.26"]
 	path = projects/3DGameEngine.js/v0.26
 	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.28"]
+	path = projects/3DGameEngine.js/v0.28
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git

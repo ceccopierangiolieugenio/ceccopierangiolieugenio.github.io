@@ -39,6 +39,7 @@ Temporary links (i will write a page for each), based on [thebennubox tutorial](
 -   [#23 3D Game Engine Tutorial: Ambient Lighting](3DGameEngine.js/v0.23/3DGameEngine.js.html)
 -   [#25 3D Game Engine Tutorial: Directional Light](3DGameEngine.js/v0.25/3DGameEngine.js.html)
 -   [#26 3D Game Engine Tutorial: Specular Reflection](3DGameEngine.js/v0.26/3DGameEngine.js.html)
+-   [#28 3D Game Engine Tutorial: Point Lights](3DGameEngine.js/v0.28/3DGameEngine.js.html)
 
 
 Bored Like
