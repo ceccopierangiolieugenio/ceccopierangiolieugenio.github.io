@@ -15,7 +15,7 @@ Javascript porting of the [3DGameEngine](https://github.com/BennyQBD/3DGameEngin
 
 [GitHub](https://github.com/ceccopierangiolieugenio/3DGameEngine.js)
 
-Temporary links (i will write a page for each), based on [thebennubox tutorial](http://www.sonarlearning.co.uk/coursepage.php?topic=game&course=ext-bb-3d-ged) 
+Temporary links (i will write a page for each), based on [thebennybox tutorial](http://www.sonarlearning.co.uk/coursepage.php?topic=game&course=ext-bb-3d-ged) 
 
 -   [#2 Core Engine](3DGameEngine.js/v0.2/3DGameEngine.js.html)
 -   [#3 3D Game Engine Tutorial: Input](3DGameEngine.js/v0.3/3DGameEngine.js.html)
