@@ -41,6 +41,7 @@ Temporary links (i will write a page for each), based on [thebennybox tutorial](
 -   [#26 3D Game Engine Tutorial: Specular Reflection](3DGameEngine.js/v0.26/3DGameEngine.js.html)
 -   [#28 3D Game Engine Tutorial: Point Lights](3DGameEngine.js/v0.28/3DGameEngine.js.html)
 -   [#30 3D Game Engine Tutorial: Spot Lights](3DGameEngine.js/v0.30/3DGameEngine.js.html)
+-   [#31 3D Game Engine Tutorial: Finishing the Lighting Segment](3DGameEngine.js/v0.31/3DGameEngine.js.html)
 
 
 Bored Like
