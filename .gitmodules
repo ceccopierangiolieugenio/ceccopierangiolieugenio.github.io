@@ -82,3 +82,18 @@
 [submodule "projects/3DGameEngine.js/v0.31"]
 	path = projects/3DGameEngine.js/v0.31
 	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.33"]
+	path = projects/3DGameEngine.js/v0.33
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.34"]
+	path = projects/3DGameEngine.js/v0.34
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.36"]
+	path = projects/3DGameEngine.js/v0.36
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.37"]
+	path = projects/3DGameEngine.js/v0.37
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.38"]
+	path = projects/3DGameEngine.js/v0.38
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
