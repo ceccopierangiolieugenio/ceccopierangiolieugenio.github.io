@@ -100,3 +100,9 @@
 [submodule "projects/3DGameEngine.js/v0.39"]
 	path = projects/3DGameEngine.js/v0.39
 	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.40.0"]
+	path = projects/3DGameEngine.js/v0.40.0
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
+[submodule "projects/3DGameEngine.js/v0.40.1"]
+	path = projects/3DGameEngine.js/v0.40.1
+	url = https://github.com/ceccopierangiolieugenio/3DGameEngine.js.git
