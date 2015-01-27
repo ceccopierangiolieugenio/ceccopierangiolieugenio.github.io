@@ -49,6 +49,9 @@ Temporary links (i will write a page for each), based on [thebennybox tutorial](
 -   [#38 3D Game Engine Tutorial: Forward Rendering, 1/3](3DGameEngine.js/v0.38/3DGameEngine.js.html)
 -   [#39 3D Game Engine Tutorial: Forward Rendering, 2/3](3DGameEngine.js/v0.39/3DGameEngine.js.html)
 -   [#40 3D Game Engine Tutorial: Forward Rendering, 3/3](3DGameEngine.js/v0.40.1/3DGameEngine.js.html) - [(allLights on)](3DGameEngine.js/v0.40.0/3DGameEngine.js.html)
+-   [#41 3D Game Engine Tutorial: Integrating Lighting](3DGameEngine.js/v0.41/3DGameEngine.js.html)
+-   [#42 3D Game Engine Tutorial: Generic Lighting](3DGameEngine.js/v0.42/3DGameEngine.js.html)
+-   [#43 3D Game Engine Tutorial: Finalizing Lighting](3DGameEngine.js/v0.43/3DGameEngine.js.html)
 
 
 Bored Like
