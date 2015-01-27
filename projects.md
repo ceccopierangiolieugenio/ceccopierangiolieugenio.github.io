@@ -52,6 +52,9 @@ Temporary links (i will write a page for each), based on [thebennybox tutorial](
 -   [#41 3D Game Engine Tutorial: Integrating Lighting](3DGameEngine.js/v0.41/3DGameEngine.js.html)
 -   [#42 3D Game Engine Tutorial: Generic Lighting](3DGameEngine.js/v0.42/3DGameEngine.js.html)
 -   [#43 3D Game Engine Tutorial: Finalizing Lighting](3DGameEngine.js/v0.43/3DGameEngine.js.html)
+-   [#44 3D Game Engine Tutorial: Quaternions & Transformation](3DGameEngine.js/v0.44/3DGameEngine.js.html)
+-   [#45 3D Game Engine Tutorial: Proper Camera Rotation](3DGameEngine.js/v0.45/3DGameEngine.js.html)
+-   [#47 3D Game Engine Tutorial: Transform Hierarchy](3DGameEngine.js/v0.47/3DGameEngine.js.html)
 
 
 Bored Like
