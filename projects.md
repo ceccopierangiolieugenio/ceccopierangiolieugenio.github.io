@@ -55,6 +55,14 @@ Temporary links (i will write a page for each), based on [thebennybox tutorial](
 -   [#44 3D Game Engine Tutorial: Quaternions & Transformation](3DGameEngine.js/v0.44/3DGameEngine.js.html)
 -   [#45 3D Game Engine Tutorial: Proper Camera Rotation](3DGameEngine.js/v0.45/3DGameEngine.js.html)
 -   [#47 3D Game Engine Tutorial: Transform Hierarchy](3DGameEngine.js/v0.47/3DGameEngine.js.html)
+-   [#48 3D Game Engine Tutorial: Generic Materials](3DGameEngine.js/v0.48/3DGameEngine.js.html)
+-   [#49 3D Game Engine Tutorial: Proper OBJ Loading](3DGameEngine.js/v0.49/3DGameEngine.js.html)
+-   [#50 3D Game Engine Tutorial: OBJ Mesh Optimization](3DGameEngine.js/v0.50/3DGameEngine.js.html)
+-   [#51 3D Game Engine Tutorial: Finishing OBJ Loading](3DGameEngine.js/v0.51/3DGameEngine.js.html)
+-   [#52 3D Game Engine Tutorial: Mesh Management](3DGameEngine.js/v0.52/3DGameEngine.js.html)
+-   [#53 3D Game Engine Tutorial: Texture Management](3DGameEngine.js/v0.53/3DGameEngine.js.html)
+-   [#54 3D Game Engine Tutorial: Reusing Shader Code](3DGameEngine.js/v0.54/3DGameEngine.js.html)
+-   [#56 3D Game Engine Tutorial: Uniform Struct](3DGameEngine.js/v0.56/3DGameEngine.js.html)
 
 
 Bored Like
