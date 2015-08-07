@@ -63,6 +63,8 @@ Temporary links (i will write a page for each), based on [thebennybox tutorial](
 -   [#53 3D Game Engine Tutorial: Texture Management](3DGameEngine.js/v0.53/3DGameEngine.js.html)
 -   [#54 3D Game Engine Tutorial: Reusing Shader Code](3DGameEngine.js/v0.54/3DGameEngine.js.html)
 -   [#56 3D Game Engine Tutorial: Uniform Struct](3DGameEngine.js/v0.56/3DGameEngine.js.html)
+-   [#59 3D Game Engine Tutorial: Finishing](3DGameEngine.js/v0.59/3DGameEngine.js.html)
+-   [#60 3D Game Engine Tutorial: The End](3DGameEngine.js/v0.60/3DGameEngine.js.html)
 
 
 Bored Like
